@@ -1,0 +1,1 @@
+# react-inertia-pagination-laravel
